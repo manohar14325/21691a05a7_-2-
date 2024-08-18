@@ -1,0 +1,12 @@
+src/
+├── components/
+│   ├── ProductCard.js
+│   ├── ProductList.js
+│   ├── ProductDetails.js
+├── pages/
+│   ├── HomePage.js
+│   ├── ProductPage.js
+├── App.js
+├── index.js
+└── services/
+    ├── api.js

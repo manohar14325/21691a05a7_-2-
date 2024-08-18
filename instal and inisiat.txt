@@ -1,0 +1,10 @@
+
+npx create-react-app top-products-app
+cd top-products-app
+npm install @mui/material @emotion/react @emotion/styled axios react-router-dom
+
+
+
+RUN
+
+npm start
